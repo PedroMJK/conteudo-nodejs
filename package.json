@@ -1,0 +1,11 @@
+{
+  "name": "conteudo-nodejs",
+  "version": "1.0.0",
+  "description": "Curso de nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Monteiro",
+  "license": "ISC"
+}
